@@ -1,0 +1,7 @@
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\squareInHole\squareInHole\obj\Debug\squareInHole.csprojAssemblyReference.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\squareInHole\squareInHole\obj\Debug\squareInHole.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\squareInHole\squareInHole\bin\Debug\squareInHole.exe.config
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\squareInHole\squareInHole\bin\Debug\squareInHole.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\squareInHole\squareInHole\bin\Debug\squareInHole.pdb
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\squareInHole\squareInHole\obj\Debug\squareInHole.exe
+C:\Users\PKO\Documents\Visual Studio 2017\Projects\squareInHole\squareInHole\obj\Debug\squareInHole.pdb
